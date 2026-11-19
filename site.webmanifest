@@ -1,0 +1,16 @@
+{
+  "name": "Après l’orage · Chroniques du monde nouveau",
+  "short_name": "Après l’orage",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#142320",
+  "theme_color": "#142320",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./partage.jpg",
+      "sizes": "1376x768",
+      "type": "image/jpeg"
+    }
+  ]
+}
